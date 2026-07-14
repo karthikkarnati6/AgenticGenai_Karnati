@@ -1,2 +1,3 @@
 # AgenticGenai_Karnati
 AgenticgenaiwithGeneraticAI
+PRACTEC
