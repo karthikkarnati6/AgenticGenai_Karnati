@@ -1,0 +1,6 @@
+gradio>=5.0,<7
+pypdf>=5.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+chromadb>=0.5
+openai>=1.50
